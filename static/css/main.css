@@ -1,0 +1,50 @@
+
+.boton-black {
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    
+
+}
+
+
+
+
+
+nav {
+    margin-bottom: 2rem;
+    height: 3rem;
+}
+
+nav ul li {
+    display: block;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 2rem;
+}
+
+ nav ul li :hover {
+    border-radius: 10px;
+    background: black;
+    color: white !important;
+ }
+.presentacion {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.titulo {
+    
+    margin-bottom: 2rem;
+    
+}
+.slogan {
+    margin-bottom: 2rem;
+}
+
+.imagen {
+    align-items: center;
+}
